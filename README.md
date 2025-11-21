@@ -5,7 +5,7 @@
 - PHP 7.0
 
 ## Установка
-composer require AArefiev/test
+composer require arlex2305k/test
 
 ## Использование
 ```markdown
