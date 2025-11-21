@@ -1,0 +1,17 @@
+{
+    "name": "arlex2305k/test",
+    "description": "Test math package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Arlex2305k\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arlex2305k",
+            "email": "aap@digsol.ru"
+        }
+    ],
+    "require": {}
+}
