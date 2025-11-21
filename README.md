@@ -10,5 +10,5 @@ composer require AArefiev/test
 ## Использование
 ```markdown
 <?php  
-echo AArefiev\MyTestMath::factorial(10) . PHP_EOL;
+echo Arlex2305k\Test\MyTestMath::factorial(10) . PHP_EOL;
 ```
