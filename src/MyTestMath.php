@@ -10,7 +10,7 @@ class MyTestMath
      * @param int $n
      * @return int
      */
-    public static function factorial(int $n)
+    public static function factorial(int $n): int
     {
         if ($n < 0) {
             throw new \InvalidArgumentException('Факториал не определен для отрицательных чисел');
